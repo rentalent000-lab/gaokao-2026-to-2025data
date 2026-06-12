@@ -1,0 +1,22 @@
+{
+  "name": "晋辉高考数据分析卡",
+  "short_name": "晋辉高考数据",
+  "description": "2026年山西省高考志愿填报 · 25年数据查询",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FBF7F4",
+  "theme_color": "#C77D6B",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
